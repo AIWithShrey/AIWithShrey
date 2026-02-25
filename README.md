@@ -42,10 +42,10 @@ Active contributor to [kyverno/kyverno](https://github.com/kyverno/kyverno) — 
 
 ## 🎯 Technical Expertise
 
-**Kubernetes & Cloud Native**: CKA | CKAD | CKS | KCNA | KCSA (Kubestronaut) | CGOA | PCA | CAPA | Kyverno | OPA | Helm | Argo
-**AI/ML Frameworks**: TensorFlow (Ex-Certified) | PyTorch | LangChain | LangGraph | CrewAI
-**Agent Development**: MCP Protocol | Multi-Agent Systems | RAG Architecture | LLM Orchestration
-**Infrastructure**: Linux Foundation Certified SysAdmin | Terraform | AWS | GCP | Docker
+**Kubernetes & Cloud Native**: CKA | CKAD | CKS | KCNA | KCSA (Kubestronaut) | CGOA | PCA | CAPA | Kyverno | OPA | Helm | Argo  
+**AI/ML Frameworks**: TensorFlow (Ex-Certified) | PyTorch | LangChain | LangGraph | CrewAI  
+**Agent Development**: MCP Protocol | Multi-Agent Systems | RAG Architecture | LLM Orchestration  
+**Infrastructure**: Linux Foundation Certified SysAdmin | Terraform | AWS | GCP | Docker  
 **Languages**: Go | Python | YAML | CEL
 
 ---
